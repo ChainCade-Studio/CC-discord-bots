@@ -11,7 +11,6 @@ const client = new Client({
     GatewayIntentBits.GuildMembers]
 });
 
-
 let guild;
 let botMember;
 
